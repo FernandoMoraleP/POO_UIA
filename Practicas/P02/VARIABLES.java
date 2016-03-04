@@ -5,9 +5,9 @@ public class VARIABLES {
         byte a = 1;
         short b = 2;
         int c = 1244;
-        long d = 12345;
+        long d = 12345l;
         float r = 10.0f;
-        double f = 1.2;
+        double f = 1.2d;
         char g = 'w';
         String hello = "hola";
 

@@ -9,7 +9,15 @@ public class Global {
     public static char g = 't';
     public static String hello = "Hola bienvenido";
 
+    public static float VAR;
+
+
     public static void main(String[] args) {
+
+        System.out.println(VAR);
+        char VAR2 = 'N' ;
+
+        System.out.println(VAR2);
 
         
 
